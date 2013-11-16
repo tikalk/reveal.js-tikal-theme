@@ -9,6 +9,7 @@ This theme introduces some minor changes to
 * default background is the grap background appended to the <secion> tag automatically 
   see ./lib/js/tikal.js for more details
 
+```	
 	├── README.md
 	├── css
 	│   ├── images
@@ -24,7 +25,7 @@ This theme introduces some minor changes to
 	    └── js
 	        ├── jquery-1.9.1.min.js
 	        └── tikal.js
-
+```
 
 ## How to use this with reveal.js 
 
