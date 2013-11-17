@@ -17,7 +17,7 @@ body {
   background-color: white; }
 
 body:after {
-    content: url(images/logo_white.png);
+    content: url(images/fullstack-logo110x110.png);
     width: 70px;
     height: 70px;
     position: fixed;
